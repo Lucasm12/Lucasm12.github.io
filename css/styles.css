@@ -148,6 +148,8 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  text-align: center; 
+  vertical-align: middle;
 }
 
 abbr[title],
@@ -8002,7 +8004,7 @@ textarea.form-control-lg {
 
 .bg-black {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #14bf49 !important;
 }
 
 .bg-white {
@@ -11618,7 +11620,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/11.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/9.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11660,7 +11662,7 @@ body {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: #131514;
   border-radius: 100%;
   line-height: 3rem;
   color: rgba(255, 255, 255, 0.3);
