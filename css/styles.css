@@ -11463,7 +11463,7 @@ body {
   outline: none;
 }
 #mainNav .navbar-brand {
-  color: #000;
+  color: #14bf49;
   font-weight: 700;
   padding: 0.9rem 0;
 }
@@ -11583,7 +11583,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #14bf49 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to bottom, #14bf49 0%, rgba(9, 194, 34, 0.9) 75%, rgba(9, 194, 34, 0.9) 100%);
 }
 .about-section p {
   margin-bottom: 5rem;
